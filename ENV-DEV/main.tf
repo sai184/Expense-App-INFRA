@@ -1,3 +1,0 @@
-resource "d" "name" {
-  
-}
